@@ -1,0 +1,20 @@
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/* Intro ro CSS */
+
+/* h1 { color: blue;} */
+
+p { background-color: rgb(240, 207, 203);
+   width: 40%;
+   margin: 5%  25%;
+   padding: 5%;
+   text-align: center;
+   letter-spacing:  3px;
+   border: solid black 1px;
+   border-radius: 10px;
+    
+
+   }
